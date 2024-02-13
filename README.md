@@ -6,7 +6,7 @@ I'm Roman Rodionov and I'm beginner ML-Engineer
 ---
 
 **My education**:
-- Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a></b> 2/4 course <i>Software Engineer</i>
+- Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a><i>Software Engineer</i>
 
 ---
 
