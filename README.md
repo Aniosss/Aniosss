@@ -1,7 +1,7 @@
 ### Aniosss 👋
 ---
 
-I'm Roman Rodionov and I'm beginner ML-Engineer
+I'm Roman Rodionov and I'm Data Scientist
 
 ---
 
